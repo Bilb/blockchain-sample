@@ -1,0 +1,12 @@
+{
+  "name": "cryptochain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "23.6.0"
+  },
+  "scripts": {
+    "test": "jest --watchAll"
+  }
+}
